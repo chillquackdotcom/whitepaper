@@ -13,3 +13,5 @@
 
 * [Autonomous Social Media Handling](key-features/autonomous-social-media-handling.md)
 * [DApp Integration](key-features/dapp-integration.md)
+* [Gamified Community Engagement](key-features/gamified-community-engagement.md)
+* [Autonomous AI Trading Agent](key-features/autonomous-ai-trading-agent.md)
