@@ -5,7 +5,7 @@
 
 ## Introduction
 
-* [🤔 Why CHILLQUACK?](introduction/quickstart.md)
+* [🤔 Why CHILLQUACK?](introduction/why-chillquack.md)
 * [⚙️ How CHILLQUACK Works](introduction/how-chillquack-works.md)
 * [📦 What CHILLQUACK Offers](introduction/what-chillquack-offers.md)
 
@@ -15,3 +15,4 @@
 * [DApp Integration](key-features/dapp-integration.md)
 * [Gamified Community Engagement](key-features/gamified-community-engagement.md)
 * [Autonomous AI Trading Agent](key-features/autonomous-ai-trading-agent.md)
+* [Tiered Trading Fee Discounts](key-features/tiered-trading-fee-discounts.md)

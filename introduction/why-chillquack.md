@@ -1,5 +1,4 @@
 ---
-icon: bullseye-arrow
 description: >-
   Discover how CHILLQUACK combines the charm of memes with the power of AI to
   create a purposeful, community-driven blockchain ecosystem.
