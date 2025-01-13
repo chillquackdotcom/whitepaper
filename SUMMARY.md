@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Abstract](README.md)
+* [CHILLQUACK](README.md)
+* [⚖️ Disclaimer](disclaimer.md)
 
 ## Introduction
 
