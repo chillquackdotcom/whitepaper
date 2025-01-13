@@ -41,6 +41,6 @@ At the heart of CHILLQUACK’s innovation is an ecosystem that empowers users, c
 
 ### Key Features
 
-<table data-column-title-hidden data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>DApp Integration</strong></td><td>User-friendly tools to create and launch meme tokens, supported by a tiered rewards system for CHILLQUACK holders.</td><td></td><td><a href=".gitbook/assets/dapp-integration.webp">dapp-integration.webp</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-column-title-hidden data-view="cards" data-full-width="true"><thead><tr><th data-type="content-ref"></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="basics/integrations.md">integrations.md</a></td><td>User-friendly tools to create and launch meme tokens, supported by a tiered rewards system for CHILLQUACK holders.</td><td><a href=".gitbook/assets/dapp-integration.webp">dapp-integration.webp</a></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 _**Disclaimer**: CHILLQUACK is a **meme utility token** powered by AI. It is **not a security, investment, or financial product** and carries no guarantees or implied liabilities. Use CHILLQUACK responsibly and at your own risk._
