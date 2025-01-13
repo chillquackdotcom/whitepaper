@@ -13,3 +13,4 @@
 
 * [Autonomous Social Media Handling](key-features/integrations.md)
 * [DApp Integration](key-features/integrations-1.md)
+* [Gamified Community Engagement](key-features/integrations-2.md)
