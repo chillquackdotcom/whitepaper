@@ -10,4 +10,4 @@
 
 ## Key Features
 
-* [DApp Integrations](basics/integrations.md)
+* [DApp Integration](basics/integrations.md)
