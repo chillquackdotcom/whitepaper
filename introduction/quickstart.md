@@ -11,6 +11,6 @@ The crypto world is often chaotic. Meme coins dominate headlines, but too often,
 
 We believe fun and serious technology can coexist to create a decentralized future that is innovative, ethical, and inclusive. CHILLQUACK exists to redefine what a meme token can be. It is more than humor; it is a bridge that connects creativity with utility, where blockchain and AI work together to bring transparency, efficiency, and real-world use cases to decentralized finance.
 
-Our mission is simple:
+### Our mission is simple:
 
 **To take the charm of memes, combine it with the power of AI, and empower communities to shape a smarter, more connected blockchain ecosystem. By delivering real utility, engaging tools, and sustainable innovation, CHILLQUACK shows that crypto can be both fun and purposeful, blending creativity with meaningful utility to create something truly unique.**
