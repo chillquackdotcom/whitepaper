@@ -38,4 +38,4 @@ At the heart of CHILLQUACK’s innovation is an ecosystem that empowers users, c
 
 #### Key Features
 
-<table data-column-title-hidden data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>DApp Integration</strong></td><td>CHILLQUACK’s decentralized application (DApp) allows users to create meme tokens, rewarding token holders based on their tier level.</td><td></td></tr></tbody></table>
+<table data-column-title-hidden data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><strong>DApp Integration</strong></td><td>User-friendly tools to create and launch meme tokens, supported by a tiered rewards system for CHILLQUACK holders.</td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
