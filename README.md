@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-description: Official CHILLQUACK Whitepaper, last updated 13th January 2025
+description: Official CHILLQUACK Whitepaper, last updated 14th January 2025
 cover: .gitbook/assets/CHILLQUACK-neural-network.webp
 coverY: 0
 layout:
