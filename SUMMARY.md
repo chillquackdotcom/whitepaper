@@ -16,3 +16,8 @@
 * [Gamified Community Engagement](key-features/gamified-community-engagement.md)
 * [Autonomous AI Trading Agent](key-features/autonomous-ai-trading-agent.md)
 * [Tiered Trading Fee Discounts](key-features/tiered-trading-fee-discounts.md)
+* [Autonomous Blogging](key-features/autonomous-blogging.md)
+* [Community Fund Allocation](key-features/community-fund-allocation.md)
+* [Staking Platform](key-features/staking-platform.md)
+* [NFT Marketplace](key-features/nft-marketplace.md)
+* [Cross-Chain Bridge](key-features/cross-chain-bridge.md)
