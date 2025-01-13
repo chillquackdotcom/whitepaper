@@ -4,14 +4,10 @@
 
 ## Introduction
 
-* [❓ Why CHILLQUACK?](introduction/quickstart.md)
-* [Publish your docs](introduction/publish-your-docs.md)
+* [🤔 Why CHILLQUACK?](introduction/quickstart.md)
+* [⚙️ How CHILLQUACK Work](introduction/how-chillquack-work.md)
+* [📦 What CHILLQUACK Offers](introduction/what-chillquack-offers.md)
 
-## Basics
+## Key Features
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [DApp Integrations](key-features/integrations.md)
