@@ -30,6 +30,8 @@ Whether you’re here for the memes, the tech, or to join a vibrant community, C
 
 ## Introduction
 
+<div align="center"><figure><img src=".gitbook/assets/CHILLQUACK.jpeg" alt="Official token meme logo, Mr. CHILLQUACK" width="375"><figcaption><p>Mr. CHILLQUACK</p></figcaption></figure></div>
+
 CHILLQUACK is more than just a token—it’s a purpose-driven ecosystem built for those who want to combine fun, innovation, and real utility in the blockchain space. Designed to go beyond speculation, CHILLQUACK focuses on creating long-term value through advanced AI-powered trading, community-driven governance, and a deflationary token model that prioritizes transparency and sustainability.
 
 At the heart of CHILLQUACK’s innovation is an ecosystem that empowers users, connects communities, and keeps them informed. From automated AI trading to a range of tools and utilities, CHILLQUACK is redefining what it means to hold a meme token with purpose.
