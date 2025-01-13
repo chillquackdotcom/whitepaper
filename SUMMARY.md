@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Abstract](README.md)
 
-## Getting Started
+## Introduction
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [❓ Why CHILLQUACK?](introduction/quickstart.md)
+* [Publish your docs](introduction/publish-your-docs.md)
 
 ## Basics
 
