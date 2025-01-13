@@ -12,3 +12,8 @@
 ## Key Features
 
 * [DApp Integration](basics/integrations.md)
+
+## MISC
+
+* [Privacy Policy](misc/privacy-policy.md)
+* [Terms](misc/terms.md)
