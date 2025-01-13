@@ -19,5 +19,4 @@
 * [Autonomous Blogging](key-features/autonomous-blogging.md)
 * [Community Fund Allocation](key-features/community-fund-allocation.md)
 * [Staking Platform](key-features/staking-platform.md)
-* [NFT Marketplace](key-features/nft-marketplace.md)
 * [Cross-Chain Bridge](key-features/cross-chain-bridge.md)

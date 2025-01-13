@@ -49,11 +49,6 @@ CHILLQUACK provides a comprehensive suite of features designed to redefine the m
 * Provides users the option to lock CHILLQUACK tokens to earn rewards within the ecosystem.
 * Designed to incentivize long-term engagement and maintain liquidity stability.
 
-### NFT Marketplace 🎨
-
-* A platform dedicated to trading, creating, and collecting NFTs.
-* Expands CHILLQUACK’s ecosystem by encouraging creativity and innovation.
-
 ### Cross-Chain Bridge 🌉
 
 * Enables seamless transfers of CHILLQUACK tokens across supported blockchains.
