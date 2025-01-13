@@ -13,15 +13,15 @@ CHILLQUACK provides a comprehensive suite of features designed to redefine the m
 * AI-driven tools manage CHILLQUACK’s presence across platforms like Telegram, Discord, and X.
 * Ensures consistent, transparent communication and fosters engagement with the community.
 
-### Gamified Community Engagement 🎮
-
-* Offers mini-games, trivia challenges, and token hunts to reward active participation.
-* Promotes collaboration and builds a sense of community through interactive activities.
-
 ### DApp Integration 🛠️
 
 * User-friendly tools allow creators to design and launch meme tokens effortlessly.
 * Includes a tiered rewards system that benefits CHILLQUACK token holders by enhancing engagement within the ecosystem.
+
+### Gamified Community Engagement 🎮
+
+* Offers mini-games, trivia challenges, and token hunts to reward active participation.
+* Promotes collaboration and builds a sense of community through interactive activities.
 
 ### Autonomous AI Trading Agent 🤖
 

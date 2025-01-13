@@ -6,14 +6,10 @@
 ## Introduction
 
 * [🤔 Why CHILLQUACK?](introduction/quickstart.md)
-* [⚙️ How CHILLQUACK Work](introduction/how-chillquack-work.md)
+* [⚙️ How CHILLQUACK Works](introduction/how-chillquack-works.md)
 * [📦 What CHILLQUACK Offers](introduction/what-chillquack-offers.md)
 
 ## Key Features
 
-* [DApp Integration](basics/integrations.md)
-
-## MISC
-
-* [Privacy Policy](misc/privacy-policy.md)
-* [Terms](misc/terms.md)
+* [Autonomous Social Media Handling](key-features/integrations.md)
+* [DApp Integration](key-features/integrations-1.md)
