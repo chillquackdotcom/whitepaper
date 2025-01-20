@@ -10,6 +10,6 @@ description: The team behind CHILLQUACK
 
 Turning code into solutions, one line at a time.
 
-**Role: Lead Developer / Founder**&#x20;
+**Founder / Lead Developer**&#x20;
 
 **🌐** [GitHub](https://github.com/ksym04)   **🐦** [Twitter](https://x.com/ksym04r)   **💼** [LinkedIn](https://www.linkedin.com/in/ksym04/)
