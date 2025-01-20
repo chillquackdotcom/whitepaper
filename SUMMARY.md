@@ -20,3 +20,7 @@
 * [Community Fund Allocation](key-features/community-fund-allocation.md)
 * [Staking Platform](key-features/staking-platform.md)
 * [Cross-Chain Bridge](key-features/cross-chain-bridge.md)
+
+## MISC
+
+* [Team](misc/team.md)
